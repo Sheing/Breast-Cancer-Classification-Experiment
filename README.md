@@ -5,7 +5,7 @@ Breast cancer is a disease that in which early diagnosis is extremely important 
 
 #Data Description
 The data for this project was taken from Dr. William H. Wolberg who is from the University of Wisconsin Hospitals in Madison. The data consists 700 rows of just females each with 11 attributes, 10 of which specify the different characteristics of a tumor that was found within the breast of each individual. This table shows what each variable is and the values they can contain.
-# Attribute Domain
+ Attribute Domain
 -- -----------------------------------------
 ￼1. Sample code number
 2. Clump Thickness
@@ -14,11 +14,7 @@ The data for this project was taken from Dr. William H. Wolberg who is from the 
 8. Bland Chromatin
 9. Normal Nucleoli
 10. Mitoses 11. Class:
-id number 1 - 10
-1 - 10
-1 - 10 1 - 10 1 - 10 1 - 10 1 - 10
-1 - 10
-1 - 10
+
 (2 for benign, 4 for malignant)
 We used this data to train and classify already existing observations to produce an accuracy using two supervised machine learning algorithms, Random Forest Classifier and K-Nearest Neighbor Classifier. We also look at each attribute and their correlation to other existing attributes within the data set.
 
